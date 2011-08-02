@@ -2,4 +2,4 @@
 
 A graphic resource library for the **BennuGD** language.
 
-*This library uses **SDL** and **TinyXML**.
+*This library uses **SDL** and **TinyXML**.*
